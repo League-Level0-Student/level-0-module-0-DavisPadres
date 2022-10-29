@@ -24,7 +24,12 @@ ellipse(480,290,20,20);
 rect(430,260, 140,-20);
 rect(450,260, 100, -100);
 fill(#a09c99);
-rect(
+rect(450,250, 100, -10);
+fill(#08E4FF);
+ellipse(525,310, 5,20);
+fill(#FF9900);
+triangle(400, 300, 510, 290, 510, 310);
+
 //(500,500, 160,50);
 //    The first 2 numbers specify where to draw it. They are the x and y co-ordinates of the center of the ellipse.
 //    The third and fourth numbers are the size of the ellipse.
