@@ -5,6 +5,7 @@
 //    d. Save the image to your computer's desktop
 //    e. Drag and drop the image anywhere on this sketch
 
+size(500,500);
 
 // These 2 lines of code create variables to hold your face picture and a mustache.
 // You will use these later.
@@ -16,7 +17,7 @@ void setup() {
   
 // 2. The code below loads your face picture into the program. 
 //     Make sure the file name is correct for the face image you saved earlier
-face = loadImage("face.jpg");
+loadImage("tooth.png");
   
 // 3. Set the size of the sketch. Make it big enough to show the face you chose.
 
